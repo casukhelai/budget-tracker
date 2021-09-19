@@ -13,7 +13,7 @@ This budget tracker is useful for keeping track of your finances offline AND onl
 *** Note *** The Heroku app is deploying, but the graph for the app is not showing up as it does in local host
 
 ## Usage
-[Heroku](https://still-forest-22145.herokuapp.com/)
+[Deployed Heroku App](https://still-forest-22145.herokuapp.com/)
 
 ## License
 MIT License
